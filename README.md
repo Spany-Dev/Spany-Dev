@@ -1,10 +1,10 @@
 ![Header](./resources/header.png)
 <p align="center">
-    <img src="./resources/Spany-Dev.png" width="100">
+    <img src="https://media.discordapp.net/attachments/959535131612287026/964708672947257375/logo.png" width="100">
 </p>
 
-<h1 align="center">Mr. Daviidkoo4074</h1>
-<p align="center">Hi, I'm David and I like programming in HTML, CSS, JS, Java, C# & Python.</p>
+<h1 align="center">Spany Dev.</h1>
+<p align="center">Hello I'm Burak, I'm a 15 year old software developer and I live in Turkey.</p>
 
 <br />
 
@@ -13,14 +13,12 @@
 </p>
 
 <p float="left" align="center">
-    <a href="https://www.instagram.com/daviidkoooo4074/" title="Instagram"><img src="./resources/Instagram.svg" width="100"></a>
-    <a href="https://www.youtube.com/channel/UC_ikZ4mm5eJW72b5jdeRLgg" title="YouTube"><img src="./resources/YouTube.svg" width="100"></a>
-    <a href="https://twitch.tv/daviidkoo4074" title="Twitch"><img src="./resources/Twitch.svg" width="100"></a>
-    <a href="https://open.spotify.com/user/c7xiktprxevjnp9x8mtsexjog" title="Spotify"><img src="./resources/Spotify.svg" width="100"></a>
-    <a href="https://dsc.gg/darkclient" title="Discord"><img src="./resources/Discord.svg" width="100"></a>
-    <a href="mailto:mudrostdosveta@gmail.com?subject=Hi!" title="Email me"><img src="./resources/Email.svg" width="100"></a>
+    <a href="https://www.instagram.com/spanyries/" title="Instagram"><img src="./resources/Instagram.svg" width="100"></a>
+    <a href="https://www.youtube.com/c/SpanyRieS" title="YouTube"><img src="./resources/YouTube.svg" width="100"></a>
+    <a href="https://discord.com/botlist" title="Discord"><img src="./resources/Discord.svg" width="100"></a>
+    <a href="mailto:dursunburak385@gmail.com?subject=Hi!" title="Email me"><img src="./resources/Email.svg" width="100"></a>
 </p>
 
-<p align="center"><i>If you want to use my code, please read my <a href="https://github.com/daviidkoo4074/License">license repo</a> for more details.</i></p>
+<p align="center"><i>If you want to use my code, please read my <a href="https://github.com/Spany-Dev/License">license repo</a> for more details.</i></p>
 
-![Footer](./resources/footer.png)
+![Footer]("https://media.discordapp.net/attachments/959535131612287026/964708672947257375/logo.png")
