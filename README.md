@@ -13,10 +13,10 @@
 </p>
 
 <p float="left" align="center">
-    <a href="https://www.instagram.com/spanyries/" title="Instagram"><img src="./resources/Instagram.svg" width="100"></a>
-    <a href="https://www.youtube.com/c/SpanyRieS" title="YouTube"><img src="./resources/YouTube.svg" width="100"></a>
-    <a href="https://discord.com/botlist" title="Discord"><img src="./resources/Discord.svg" width="100"></a>
-    <a href="mailto:dursunburak385@gmail.com?subject=Hi!" title="Email me"><img src="./resources/Email.svg" width="100"></a>
+    <a href="https://www.instagram.com/spanyries/" title="Instagram"><img src="https://media.discordapp.net/attachments/959535131612287026/964709802552991754/Pngtreeinstagram_icon_instagram_logo_3584852.png?width=473&height=473" width="100"></a>
+    <a href="https://www.youtube.com/c/SpanyRieS" title="YouTube"><img src="https://media.discordapp.net/attachments/959535131612287026/964709317985054761/unknown.png?width=630&height=473" width="100"></a>
+    <a href="https://discord.com/botlist" title="Discord"><img src="https://media.discordapp.net/attachments/959535131612287026/964710091259523082/unknown.png?width=473&height=473" width="100"></a>
+    <a href="mailto:dursunburak385@gmail.com?subject=Hi!" title="Email me"><img src="https://media.discordapp.net/attachments/959535131612287026/964710275922145350/unknown.png?width=473&height=473" width="100"></a>
 </p>
 
 <p align="center"><i>If you want to use my code, please read my <a href="https://github.com/Spany-Dev/License">license repo</a> for more details.</i></p>
