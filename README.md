@@ -19,6 +19,3 @@
     <a href="mailto:dursunburak385@gmail.com?subject=Hi!" title="Email me"><img src="https://media.discordapp.net/attachments/959535131612287026/964710275922145350/unknown.png?width=473&height=473" width="100"></a>
 </p>
 
-<p align="center"><i>If you want to use my code, please read my <a href="https://github.com/Spany-Dev/License">license repo</a> for more details.</i></p>
-
-![Footer]("https://media.discordapp.net/attachments/959535131612287026/964708672947257375/logo.png")
